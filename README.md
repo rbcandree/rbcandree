@@ -1,7 +1,7 @@
 ## Hello, I'm Andree <img src="https://raw.githubusercontent.com/rbcandree/rbcandree/main/gif/wave.gif" width="30px">
-<img src="https://raw.githubusercontent.com/rbcandree/rbcandree/main/gif/book1.gif" width="35px"> I'm a freshman at TUAS, studying ICT Engineering.
+<img src="https://raw.githubusercontent.com/rbcandree/rbcandree/main/gif/book1.gif" width="35px"> I'm a 2nd-year undergraduate student at TUAS, studying ICT Engineering.
 
-<img src="https://raw.githubusercontent.com/rbcandree/rbcandree/main/python_icon.png" width="25px"> Newbie, but I'm constantly improving my Python coding skills.
+<img src="https://raw.githubusercontent.com/rbcandree/rbcandree/main/python_icon.png" width="25px"> Constantly improving my Python coding skills.
 
 <img src="https://raw.githubusercontent.com/rbcandree/rbcandree/main/gif/book2.gif" width="30px"> Taking extra online courses.
 
