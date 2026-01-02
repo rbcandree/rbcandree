@@ -1,9 +1,10 @@
 ## Hello, I'm Andree <img src="https://raw.githubusercontent.com/rbcandree/rbcandree/main/gif/wave.gif" width="30px">
-<img src="https://raw.githubusercontent.com/rbcandree/rbcandree/main/gif/book1.gif" width="35px"> Data Networks and Cybersecurity undergraduate student at Turku UAS. My Interests: pentesting, AI, firewall & networks, hardware upgrade, retro PC builds (Windows 98 / ME / XP), Linux.
+<img src="https://raw.githubusercontent.com/rbcandree/rbcandree/main/gif/book1.gif" width="35px"> Data Networks and Cybersecurity undergraduate student at Turku UAS.
+Interests: pentesting, AI, firewall & networks, hardware upgrade, retro PC builds (Windows 98 / ME / XP), Linux.
 
 <img src="https://raw.githubusercontent.com/rbcandree/rbcandree/main/python_icon.png" width="25px"> Constantly building and experimenting with projects in my home lab.
 
-<img src="https://raw.githubusercontent.com/rbcandree/rbcandree/main/gif/book2.gif" width="30px"> Taking extra online courses.
+<img src="https://raw.githubusercontent.com/rbcandree/rbcandree/main/gif/book2.gif" width="30px"> Official documentation and guides are often read here.
 
 👨‍🔬 [Logician](https://www.16personalities.com/intp-personality) personality.
 
